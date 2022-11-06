@@ -12,14 +12,13 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 
 .container {
   max-width: 70vh;
   margin: 1px auto;
   overflow: auto;
-  min-height: 300px;
   border: 1px solid steelblue;
   padding: 1.5px;
   border-radius: 5px;
@@ -30,7 +29,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .btn {
@@ -69,11 +68,11 @@ a {
 }
 
 .add-form {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .form-control {
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .form-control label {
@@ -104,7 +103,7 @@ a {
 }
 
 footer {
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: center;
 }
 
